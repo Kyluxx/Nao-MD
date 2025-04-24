@@ -8,7 +8,6 @@ plugins_bak/
 handlerr.js
 sftp/
 database.json
-config.js
 bot.sh
 
 plugins/_monitor-mc.js
